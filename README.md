@@ -27,3 +27,9 @@ Run them like this:
 `./transformations.sh $SEARCH_PHRASE`
 
 Feel free to change the code or the script, just don't hold me accountable ;)
+
+## Possible improvements
+- [ ] Save everything to a SQLite database
+- [ ] Run a web server to provide easier search functionality
+- [ ] More `jq` queries to search for data
+- [ ] Static SQL code analyzer to visualize lineage throughout the projects
